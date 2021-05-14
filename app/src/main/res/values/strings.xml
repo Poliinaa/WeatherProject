@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="logo">Прогноз</string>
+    <string name="hint_user_field">Введите город</string>
+    <string name="main_btn">Поиск</string>
+    <string name="no_user_input">Введите город</string>
+    <string name="humidity">Влажность</string>
+    <string name="pressure">Давление</string>
+    <string name="wind">Ветер</string>
+    <string name="city">Фюрстенфельдбрук</string>
+    <string name="temp">100 °C</string>
+    <string name="noCity">Город не найден</string>
+    <string name="update">Обновление</string>
+    <string name="update_edit">Последнее обновление</string>
+    <string name="icon"> icon</string>
+    <string name="visibility"> Видимость</string>
+    <string name="feels_like"> По ощущениям</string>
+    <string name="check">Check</string>
+    <string name="todo">TODO</string>
+</resources>
